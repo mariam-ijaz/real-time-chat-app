@@ -35,7 +35,3 @@ Built for speed, simplicity, and scalability, this project demonstrates how to i
 - **CORS** – Middleware to allow cross-origin requests
 - **dotenv** – Environment variable management
 
----
-
-## 📂 Folder Structure
-
